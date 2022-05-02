@@ -868,7 +868,6 @@ sources:
   api:
     versions:
       - v3.1
-    isBeta: true
   channel: '#sources'
   deployment_repo: https://github.com/RedHatInsights/sources-ui-deploy
   frontend:
